@@ -5,5 +5,5 @@
 
 ```python
 pip install -r requirements.txt
-py.test test_anagrams.py
+py.test test_anagrams.py 
 ```
